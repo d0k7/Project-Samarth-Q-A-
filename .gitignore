@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+env/
+venv/
+.venv/
+.samarth/
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# VS Code
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# dotenv
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# System
+*.swp
+*.swo
+
+# node / frontend (if any)
+node_modules/
+
+
+
+# Virtual environments
+/.venv
+/.samarth
+/.venv/
+
+# Coverage and tests
+.coverage
+htmlcov/
+.tox/
+
+# Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Optional: Git LFS pointer files (if you later configure LFS)
+*.gitattributes

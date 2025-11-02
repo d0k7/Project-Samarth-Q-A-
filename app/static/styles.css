@@ -1,0 +1,6 @@
+﻿body { font-family: Inter, Arial, sans-serif; background:#f7f7fb; color:#111; }
+.container { max-width:900px; margin:28px auto; padding:20px; background:white; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.06); }
+#composer { display:flex; gap:8px; margin-top:12px; }
+#composer input { flex:1; padding:10px; border:1px solid #ddd; border-radius:6px; }
+#composer button { padding:10px 14px; border:none; border-radius:6px; background:#2563eb; color:white; cursor:pointer; }
+#result pre { background:#f3f4f6; padding:12px; border-radius:6px; overflow:auto; }
